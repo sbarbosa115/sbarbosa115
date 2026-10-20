@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Sergio Barbosa, Senior DevOps and Platform Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b3b45"/>
+      <stop offset="1" stop-color="#14707a"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.06" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="16" fill="url(#grid)"/>
+  <g fill="none" stroke="#5cc4cf" stroke-width="2" stroke-opacity="0.55">
+    <path d="M820 70 H900 V130 H980"/>
+    <path d="M820 190 H900 V130"/>
+    <path d="M980 130 H1060 V80 H1120"/>
+    <path d="M1060 130 V180 H1120"/>
+  </g>
+  <g fill="#0b3b45" stroke="#5cc4cf" stroke-width="2">
+    <circle cx="820" cy="70" r="9"/>
+    <circle cx="820" cy="190" r="9"/>
+    <circle cx="980" cy="130" r="13"/>
+    <circle cx="1120" cy="80" r="9"/>
+    <circle cx="1120" cy="180" r="9"/>
+  </g>
+  <circle cx="980" cy="130" r="5" fill="#5cc4cf"/>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#ffffff">
+    <text x="64" y="104" font-size="48" font-weight="700">Sergio Barbosa</text>
+    <text x="64" y="150" font-size="26" font-weight="500" fill="#d8f3f5">Senior DevOps &amp; Platform Engineer</text>
+    <text x="64" y="198" font-size="17" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace" fill="#a9e4e9">aws · azure · kubernetes · terraform · event-driven · ai agents</text>
+  </g>
+</svg>
